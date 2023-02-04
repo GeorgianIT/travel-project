@@ -28,6 +28,36 @@
         "unicKey": 5,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "mountain-road.jpg"
+        "image": "picture1.jpg"
+    },
+    {
+        "unicKey": 6,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "picture2.jpg"
+    },
+    {
+        "unicKey": 7,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "picture3.jpg"
+    },
+    {
+        "unicKey": 8,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "picture4.jpg"
+    },
+    {
+        "unicKey": 9,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "picture5.jpg"
+    },
+    {
+        "unicKey": 10,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "picture6.jpg"
     }
 ]
