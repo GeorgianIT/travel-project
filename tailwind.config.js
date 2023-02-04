@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'mRoad': "url('../src/assets/photoshop.png')",
+        'photoshop' : "url('../src/assets/final2.png')",
       },
       fontFamily: {
         custom1: ["Custom-1", "sans-serif"],
