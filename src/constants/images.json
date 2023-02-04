@@ -1,0 +1,33 @@
+
+[
+    {   
+        "unicKey": 1,
+        "id": 1,
+        "path": "http://localhost:3001/",
+        "image": "mountain-forest.jpg"
+    },
+    {
+        "unicKey": 2,
+        "id": 2,
+        "path": "../Calculator/index.html",
+        "image": "mountain-fullhd.jpg"
+    },
+    {
+        "unicKey": 3,
+        "id": 1,
+        "path": "http://localhost:3002/",
+        "image": "mountain-lake.jpg"
+    },
+    {
+        "unicKey": 4,
+        "id": 1,
+        "path": "http://localhost:3003/",
+        "image": "woods-wallpaper.jpg"
+    },
+    {
+        "unicKey": 5,
+        "id": 1,
+        "path": "http://localhost:3004/",
+        "image": "mountain-road.jpg"
+    }
+]
