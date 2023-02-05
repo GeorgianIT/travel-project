@@ -4,60 +4,80 @@
         "unicKey": 1,
         "id": 1,
         "path": "http://localhost:3001/",
-        "image": "mountain-forest.jpg"
+        "image": "mountain-forest.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 2,
         "id": 2,
         "path": "../Calculator/index.html",
-        "image": "mountain-fullhd.jpg"
+        "image": "mountain-fullhd.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 3,
         "id": 1,
         "path": "http://localhost:3002/",
-        "image": "mountain-lake.jpg"
+        "image": "mountain-lake.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 4,
         "id": 1,
         "path": "http://localhost:3003/",
-        "image": "woods-wallpaper.jpg"
+        "image": "woods-wallpaper.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 5,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture1.jpg"
+        "image": "picture1.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 6,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture2.jpg"
+        "image": "picture2.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 7,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture3.jpg"
+        "image": "picture3.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 8,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture4.jpg"
+        "image": "picture4.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 9,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture5.jpg"
+        "image": "picture5.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
         "unicKey": 10,
         "id": 1,
         "path": "http://localhost:3004/",
-        "image": "picture6.jpg"
+        "image": "picture6.jpg",
+        "postedBy" : "Tudor",
+        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     }
 ]
