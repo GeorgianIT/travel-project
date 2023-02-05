@@ -27,7 +27,7 @@ const SectionTwo = () => {
   return (
 
   
-    <motion.div  className='bg-black snap-start flex justify-center h-[100vh]'>
+    <motion.div id='discover' className='bg-black snap-start flex justify-center h-[100vh]'>
       <motion.div  drag='x' dragConstraints={{right : 1000, left: -1000}} id= 'image-track' className='flex gap-10 justify-center'>
         {images.map((data) => { return <Images key={data.unicKey} data={data} /> })}
       </motion.div> 
