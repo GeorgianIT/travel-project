@@ -4,6 +4,7 @@ import Title from './components/Title';
 import ThirdSection from './components/ThirdSection';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar'
+import Exploring from "./components/Exploring";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div className='snap-y snap-mandatory scroll-smooth h-screen w-screen overflow-scroll'>
       <Navbar/>
       <Title />
+      <Exploring/>
       <SectionTwo />
       {/* <ThirdSection /> */}
       <Footer/>
