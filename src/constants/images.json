@@ -41,14 +41,6 @@
         "imgLocation" : "Jackson Lake Lodge, Moran, United States"
     },
     {
-        "unicKey": 6,
-        "id": 1,
-        "path": "http://localhost:3004/",
-        "image": "picture2.jpg",
-        "postedBy" : "Tudor",
-        "imgLocation" : "Jackson Lake Lodge, Moran, United States"
-    },
-    {
         "unicKey": 7,
         "id": 1,
         "path": "http://localhost:3004/",
